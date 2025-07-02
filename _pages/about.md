@@ -1,13 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+i! I'm Arash — I like to think of myself as a full-stack problem solver and lifelong tinkerer (vibe learner?). I’ve spent now more than a decade navigating and contributing to complex systems in a few domains:
+
+- **Semiconductor materials & manufacturing**: From lab-scale to high-volume production, I've worked on high-stake growth and process technologies that demand both scientific rigor and industrial execution.
+- **Process engineering, experimentation & statistical thinking**: 
+- **Data science**: I mainly work with large-scale data — live streams collected at sub-minute intervals from hundreds of sensors and instruments connected to furnaces running continuously for weeks or even months. Understanding and acting on that data in real time is critical to driving yield and process improvements. Analysis venue was initially MATLAB in grad school. These days, I use Python and SQL — self-taught and applied daily.
+- **Project & program management**: I've been fortunate to learn from world-class project execution masters. I'm very interested in decision-making and project management. I earned my PMP and have since led large-scale global initiatives (US, China, Japan).
+- **Software tools & product thinking**: I build internal tools — usually for myself and fellow engineers and managers — using agile methods and scrum, user stories, and a strong sense of what makes products useful. I hold a PSM 1 certification and enjoy product management and development these days.
+
+---
+
+Most of my learning is driven by curiosity and necessity — and often fueled by 1. needing something fast, and 2. someone telling me a variation of it can't be done, it's going to take some time, or the worse I'm not cut out to do it, to which I say "watch me!" (Think *The Last Dance*.) Over the years, I've gotten good at turning complex process behavior and ideas into simple, testable prototypes and get actionable insights ( **fail fast, fail smart**). Richard Feynman is one of my heroes and this quote by him is one of my guiding principles, “No problem is too small or too trivial if we can really do something about it.”
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

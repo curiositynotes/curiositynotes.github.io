@@ -25,7 +25,7 @@ author:
   avatar           : "myprofile.png"
   name             : "Arash Dehkordi Ph.D., PMP"
   pronouns         : # example: "she/her"  
-  bio              : "Technologist, Program Manager, Tinkerer"
+  bio              : "Technologist | Program Manager | Tinkerer"
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=feWrfk4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
