@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-i! I'm Arash — I like to think of myself as a full-stack problem solver and lifelong tinkerer (vibe learner?). I’ve spent now more than a decade navigating and contributing to complex systems in a few domains:
+Hi! I'm Arash — I like to think of myself as a full-stack problem solver and lifelong tinkerer (vibe learner?). I’ve spent now more than a decade navigating and contributing to complex systems in a few domains:
 
 - **Semiconductor materials & manufacturing**: From lab-scale to high-volume production, I've worked on high-stake growth and process technologies that demand both scientific rigor and industrial execution.
 - **Process engineering, experimentation & statistical thinking**: 
