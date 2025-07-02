@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    # url: /arash/
+    # url: /cv/
       url: /files/Arash Dehkordi Resume PM.pdf 
 
   - title: "Publications"
