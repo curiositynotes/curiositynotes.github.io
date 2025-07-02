@@ -4,7 +4,7 @@ title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  #- /about.html
 ---
 
 Hi! I'm Arash — I like to think of myself as a full-stack problem solver and lifelong tinkerer (vibe learner?). My background is in Physics and I have a PhD in Materials Science and Engineering. I’ve spent over a decade navigating and contributing to complex systems in a few domains:
@@ -18,5 +18,3 @@ Hi! I'm Arash — I like to think of myself as a full-stack problem solver and l
 ---
 
 Most of my skills and learning are driven by curiosity and necessity — and often fueled by 1. needing something fast, and 2. someone telling me a variation of it can't be done, it's going to take some time, or the worse I'm not cut out to do it, to which I say "watch me!" (Think *The Last Dance*.) Over the years, I've gotten good at turning complex process behavior and ideas into simple, testable prototypes and get actionable insights (**fail fast, fail smart**). Richard Feynman is one of my heroes and this quote by him is one of my guiding principles, “No problem is too small or too trivial if we can really do something about it.”
-
-
