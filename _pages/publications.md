@@ -28,6 +28,9 @@ author_profile: true
     {% if post.venue %}
       <em>{{ post.venue }}</em>
     {% endif %}
+    {% if post.venue %}
+     <span style="font-weight: 300; font-style: italic;">{{ post.venue }}</span>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
@@ -45,7 +48,7 @@ author_profile: true
     <br>
     {{ post.authors }}<br>
     {% if post.venue %}
-      <em>{{ post.venue }}</em>
+     <span style="font-weight: 300; font-style: italic;">{{ post.venue }}</span>
     {% endif %}
   </li>
 {% endfor %}
