@@ -24,7 +24,7 @@ author_profile: true
       <strong>{{ post.title }}</strong>
     {% endif %}
     <br>
-    {{ post.authors | markdownify }}<br>
+    {{ post.authors | replace: "A. Dehkordi", "<strong>A. Dehkordi</strong>" }}<br>
     {% if post.venue %}
       <em>{{ post.venue }}</em>
     {% endif %}
@@ -46,7 +46,7 @@ author_profile: true
       <strong>{{ post.title }}</strong>
     {% endif %}
     <br>
-    {{ post.authors | markdownify }}<br>
+    {{ post.authors | replace: "A. Dehkordi", "<strong>A. Dehkordi</strong>" }} }}<br>
     {% if post.venue %}
      <span style="font-weight: 300; font-style: italic;">{{ post.venue }}</span>
     {% endif %}
