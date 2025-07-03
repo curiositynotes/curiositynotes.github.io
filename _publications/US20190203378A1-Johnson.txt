@@ -1,6 +1,6 @@
 ---
 title: "Methods for Removing a Melt of Silicon from a Crucible and Related Wick Assemblies"
-authors: "B. K. Johnson, H. F. Erk, S. L. Garner, J. Gibbons, A. T. Berhorst, J. C. Holzer, B. M. Meyer, P. Daggolu, **A. Dehkordi**, S. W. Hayes"
+authors: "B. K. Johnson, H. F. Erk, S. L. Garner, J. Gibbons, A. T. Berhorst, J. C. Holzer, B. M. Meyer, P. Daggolu, A. Dehkordi, S. W. Hayes"
 date: 2018-12-18
 venue: "US Patent US20190203378A1 (2018)"
 category: patent
