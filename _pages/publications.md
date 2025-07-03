@@ -17,7 +17,7 @@ author_profile: true
     {% if post.cover_image %}
       <img src="{{ post.cover_image }}" alt="Journal Cover" style="max-width:200px; margin-bottom:10px;">
     {% endif %}
-    
+
     {% if post.paperurl %}
       <strong><a href="{{ post.paperurl }}">{{ post.title }}</a></strong>
     {% else %}
@@ -26,15 +26,11 @@ author_profile: true
     <br>
     {{ post.authors | replace: "A. Dehkordi", "<strong>A. Dehkordi</strong>" }}<br>
     {% if post.venue %}
-      <em>{{ post.venue }}</em>
-    {% endif %}
-    {% if post.venue %}
-     <span style="font-weight: 300; font-style: italic;">{{ post.venue }}</span>
+      <span style="font-style: italic; font-size: 90%; color: #555;">{{ post.venue }}</span>
     {% endif %}
   </li>
 {% endfor %}
 </ul>
-
 
 <h2>Patents</h2>
 <ul>
@@ -48,7 +44,7 @@ author_profile: true
     <br>
     {{ post.authors | replace: "A. Dehkordi", "<strong>A. Dehkordi</strong>" }}<br>
     {% if post.venue %}
-     <span style="font-weight: 300; font-style: italic;">{{ post.venue }}</span>
+      <span style="font-style: italic; font-size: 90%; color: #555;">{{ post.venue }}</span>
     {% endif %}
   </li>
 {% endfor %}
