@@ -1,0 +1,8 @@
+---
+title: "Hybrid crucible assembly for czochralski crystal growth"
+authors: "**A. Dehkordi**, J. C. Holzer"
+date: 2019-09-07
+venue: "US Patent US20190078231A1 (2019)"
+category: patent
+patenturl: "https://patents.google.com/patent/US20190078231A1/en"
+---
