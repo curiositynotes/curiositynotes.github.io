@@ -7,7 +7,7 @@ redirect_from:
   #- /about.html
 ---
 
-Hi! I'm Arash — a full-stack problem solver (I ask my wife to call me that) and lifelong tinkerer (vibe learner?). My background is in Physics and I hold a PhD in Materials Science and Engineering. I’ve spent now over a decade navigating and contributing to complex systems in a few domains:
+Hi! I'm Arash, a full-stack problem solver (I ask my wife to call me that) and lifelong tinkerer (vibe learner?). My background is in Physics and I hold a PhD in Materials Science and Engineering. I’ve spent now over a decade navigating and contributing to complex systems in a few domains:
 
 - **Semiconductor materials & manufacturing**: From lab-scale to high-volume production, I've worked on growth and process technologies that demand both scientific rigor and industrial execution.
 - **Process engineering, experimentation & statistical thinking**: I’ve worked across full-cycle process development and NPI, often in high-uncertainty environments where experimentation matters. I’ve gotten very good at designing experiments run partial factorial DOEs, used Bayesian-inspired approaches to optimize experiments, and relied on timeseries data and intuition to troubleshoot, scale, and improve complex industrial processes.
